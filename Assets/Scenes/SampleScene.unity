@@ -438,7 +438,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   movementSpeed: 5
-  jumpHeight: 10
+  jumpHeight: 25
   verticalCameraSensitiviy: 10
   horizontalCameraSensitivity: 10
 --- !u!114 &1391815186
