@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     public float jumpHeight;
     public float verticalCameraSensitiviy;
     public float horizontalCameraSensitivity;
+    public float sprintMultiplier;
     // Start is called before the first frame update
     void Start()
     {
